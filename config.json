@@ -1,0 +1,27 @@
+{
+  "bot": {
+    "token": "YOUR_BOT_TOKEN",
+    "status": {"text": "🎫 tickety"}
+  },
+  "categories": {
+    "Rekrutacja": {
+      "emoji": "🧑‍💼",
+      "label": "Rekrutacja",
+      "role": 111111111111,
+      "cat": 222222222222,
+      "questions": ["Nick MC / Discord", "Wiek", "Dlaczego Ty?"]
+    },
+    "Pomoc": {
+      "emoji": "🆘",
+      "label": "Pomoc Techniczna",
+      "role": 333333333333,
+      "cat": 444444444444,
+      "questions": ["System operacyjny", "Opisz problem"]
+    }
+  },
+  "logs": {
+    "ticket": 555555555555,
+    "admin": 666666666666,
+    "error": 777777777777
+  }
+}
